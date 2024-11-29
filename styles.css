@@ -11,6 +11,10 @@ h1 {
 	line-height: 1.15em;
 }
 
+sup {
+	font-size: 8px
+}
+
 a:link,a:visited {
 	color: #436C57;
 	text-decoration: none;
